@@ -23,7 +23,9 @@ function App() {
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+        </p> <h1 class="mt-10 text-2xl font-bold underline">
+    Hello world!
+  </h1>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
